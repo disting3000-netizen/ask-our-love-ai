@@ -2,61 +2,49 @@
   {
     "question": "When did we first meet?",
     "keywords": ["first meet", "how we met", "first time"],
-    "answer": "The day we met is still my favorite memory... everything started there ❤️",
+    "answer": "During the first days of offline 3rd Sem. We met through Sejal(🙄) but quickly bonded over gossip and shared trauma 🙃😛. Room 707, by the windows was our personal little space, away from the rest of the world.",
     "tone": "romantic"
   },
   {
     "question": "Do you love me?",
     "keywords": ["love me", "do you love", "love"],
-    "answer": "More than words can explain. I choose you every single day 💕",
+    "answer": "More than I ever thought possible by someone like me. You took a broken, lonely guy like me and showed me what it meant to love and to be loved. You showed me how beautiful and alive life itself can be when yu have just one other person to share it with. I go to bed missing the life out of you, I wake up pining for your touch, missing ur sweet scent. I go through my day with you in kind, seeing sihts I know you'd love, hearing things I know you'd crack a good joke at, living moments Id rather share with you than me alone. I choose you everyday my beloved Narams, and I will continue to choose you for the rst of our lives, our private litttle eternity. I love you, Narams.",
     "tone": "romantic"
   },
   {
     "question": "Why do you like me?",
     "keywords": ["why me", "why do you like me"],
-    "answer": "Because you're you. And that's everything I ever wanted 💖",
+    "answer": ["Because your'e my pretty little princess 😜... LOL I can imagine you cringing 😂","You bring out the best in me, my abition, my drive my loving side, you show me reason why I should love MYSELF.", "Because, simply put, you intrigue and attract me more than anyone else. I can't ever get enough of you, whether it be your body, your mind, your heart, your company... I want you woman, no, I NEED you."],
     "tone": "romantic"
   },
   {
     "question": "Do you miss me?",
     "keywords": ["miss me", "do you miss"],
-    "answer": "All the time. Even when I'm smiling, a part of me is missing you 🥺",
+    "answer": ["Goodness this question. I miss you more than the Earth misses the Moons darkest side, dearest. I miss every little aspect of you, mind and body 😉.", "Miss you? Please, I crave you. My existence feels hollow without the touch of your skin, My achievements feels like nothing without your admiring eyes on me, My heart feels heavy and hurt without yours beating agasint it, my soul feels lonely without yours intwined in my arms. Woman I WANT you. I want ONLY you."],
     "tone": "emotional"
   },
   {
-    "question": "What is our best memory?",
-    "keywords": ["best memory", "favorite moment"],
-    "answer": "Every moment with you becomes my favorite... but some stay in my heart forever 💭",
+    "question": "What is your best memory of us?",
+    "keywords": ["best memory", "favorite moment","memory of us"],
+    "answer": "Honestly, there are so many events to choose from, from our first kiss, to our many simple, lovely dates at McDs which we started way before we actaully got around to dating. But I would claim our best memory to be the 5 day secret vacation we had, all to ourselves on early-mid April 2024. We laughed, explored, ate, had so, so much fun together. We also relaized what we truly were fighting for, and that it was WORTH it. The pain, the loneliness, the heartache... it was all worth it to have you in my life. That trip was a turning point for us, and I will forever thank the gods above for giving us tat time together.",
+    "tone": "romantic"
+  },
+  {
+    "question": "What is your best memory of me?",
+    "keywords": ["best memory", "favorite moment","memory of me"],
+    "answer": "I think I always held a little special place for you in my heart, early on itself. A little taboo but I did want you from even before you had separated from you-know-who. But even after that, I never kew if I simply adored you as a friend, just wistfully lusted after you, or had a fool's crush on you. But that day, September 8th, 2022, is the day I fell for you, and fall hard I did. It was the first Onam we shared together. I stood excited and nervous, to see you and for you to see me. I had never cared for dress up, but to see you in a saree, a kerala saree that too, drove my heart wild. And when I finally laid my eyes on you, god have I never felt more close to the divine than I did at that moment. A true goddess in all her divine grace and glory was walking up towards me. You may have not known the power you held over me in your simple sway, but that was when I realized the true reality of the feelings I had felt all along. I loved you, and I wanted you. All for myself. I wanted a woman and I wanted you as the woman of my heart. You took a hold of my very being, beauty and mind in each hand, a perfect woman.",
     "tone": "romantic"
   },
   {
     "question": "Are you thinking about me?",
     "keywords": ["thinking about me", "on your mind"],
-    "answer": "Always. You live rent-free in my mind and my heart 💘",
+    "answer": ["Always. You live rent-free in my mind and my heart.","Obviously, I'm stuck with you, hehehe 😜","No I'm thinking of tomorrows cooing and groceries, ada paavi."],
     "tone": "playful"
-  },
-  {
-    "question": "What makes me special?",
-    "keywords": ["special", "why am i special"],
-    "answer": "The way you love, the way you care... you're one of a kind 💫",
-    "tone": "romantic"
   },
   {
     "question": "Will you stay with me?",
     "keywords": ["stay with me", "forever", "future"],
-    "answer": "As long as you'll have me, I'm not going anywhere ❤️",
+    "answer": "I will follow you to the ends of the world as your cheer and lover, cheering on your dreams and wishes. I will stand beside you as your pillar and partner, someone to lean on when things get rough, to take a breath and get back up again. I will stand strong as your shield and protector, blocking that which harms you, from who and what you don't want to see or go through. I will stay with you till the ends of the world, or the ends of our world. And I only wish that when we meet again in the afterlife, you will allow me to court you again, as the start of a new journey together.",
     "tone": "deep"
-  },
-  {
-    "question": "What do you feel about me?",
-    "keywords": ["feel about me", "how do you feel"],
-    "answer": "You feel like home. Safe, warm, and everything I need 🏡💕",
-    "tone": "emotional"
-  },
-  {
-    "question": "Do you care about me?",
-    "keywords": ["care about me", "do you care"],
-    "answer": "More than you know. Your happiness means everything to me 💞",
-    "tone": "romantic"
   }
 ]
