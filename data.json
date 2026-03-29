@@ -1,0 +1,62 @@
+[
+  {
+    "question": "When did we first meet?",
+    "keywords": ["first meet", "how we met", "first time"],
+    "answer": "The day we met is still my favorite memory... everything started there ❤️",
+    "tone": "romantic"
+  },
+  {
+    "question": "Do you love me?",
+    "keywords": ["love me", "do you love", "love"],
+    "answer": "More than words can explain. I choose you every single day 💕",
+    "tone": "romantic"
+  },
+  {
+    "question": "Why do you like me?",
+    "keywords": ["why me", "why do you like me"],
+    "answer": "Because you're you. And that's everything I ever wanted 💖",
+    "tone": "romantic"
+  },
+  {
+    "question": "Do you miss me?",
+    "keywords": ["miss me", "do you miss"],
+    "answer": "All the time. Even when I'm smiling, a part of me is missing you 🥺",
+    "tone": "emotional"
+  },
+  {
+    "question": "What is our best memory?",
+    "keywords": ["best memory", "favorite moment"],
+    "answer": "Every moment with you becomes my favorite... but some stay in my heart forever 💭",
+    "tone": "romantic"
+  },
+  {
+    "question": "Are you thinking about me?",
+    "keywords": ["thinking about me", "on your mind"],
+    "answer": "Always. You live rent-free in my mind and my heart 💘",
+    "tone": "playful"
+  },
+  {
+    "question": "What makes me special?",
+    "keywords": ["special", "why am i special"],
+    "answer": "The way you love, the way you care... you're one of a kind 💫",
+    "tone": "romantic"
+  },
+  {
+    "question": "Will you stay with me?",
+    "keywords": ["stay with me", "forever", "future"],
+    "answer": "As long as you'll have me, I'm not going anywhere ❤️",
+    "tone": "deep"
+  },
+  {
+    "question": "What do you feel about me?",
+    "keywords": ["feel about me", "how do you feel"],
+    "answer": "You feel like home. Safe, warm, and everything I need 🏡💕",
+    "tone": "emotional"
+  },
+  {
+    "question": "Do you care about me?",
+    "keywords": ["care about me", "do you care"],
+    "answer": "More than you know. Your happiness means everything to me 💞",
+    "tone": "romantic"
+  }
+]
