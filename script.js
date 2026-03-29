@@ -5,7 +5,15 @@ fetch("data.json")
     .then(response => response.json())
     .then(json => {
         data = json;
-        console.log("Data loaded:", data);
+
+        // Welcome message
+        setTimeout(() => {
+            addMessage("Hey love... I made this for you ❤️", "bot");
+        }, 500);
+
+        setTimeout(() => {
+            addMessage("You can ask me anything about us... I'll always answer 💕", "bot");
+        }, 1500);
     });
 
 // Send message
